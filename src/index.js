@@ -14,8 +14,8 @@ getUsers().then(result => {
 
     });
 
-    $('tbody').html(usersBody);  
-
+    //$('tbody').html(usersBody);  
+    global.document.getElementById('users').innerHTML = usersBody;
     const deleteLinks = global.document.getElementsByClassName('deleteUser');
 
     // Must use array.from to create a real array from a DOM collection
