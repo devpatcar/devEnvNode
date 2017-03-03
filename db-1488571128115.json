@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 907265,
+      "firstName": "Lincoln",
+      "lastName": "Friesen",
+      "email": "Gabe77@gmail.com"
+    },
+    {
+      "id": 46319351,
+      "firstName": "Alfreda",
+      "lastName": "Feil",
+      "email": "Juwan_Jacobi@hotmail.com"
+    },
+    {
+      "id": 55609859,
+      "firstName": "Milo",
+      "lastName": "Gibson",
+      "email": "Lance.Kohler0@gmail.com"
+    },
+    {
+      "id": 88734716,
+      "firstName": "Conrad",
+      "lastName": "Altenwerth",
+      "email": "Sage68@gmail.com"
+    },
+    {
+      "id": 2071556,
+      "firstName": "Richmond",
+      "lastName": "Daugherty",
+      "email": "Ofelia_Ullrich81@hotmail.com"
+    }
+  ]
+}
